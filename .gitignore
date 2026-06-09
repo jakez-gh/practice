@@ -1,0 +1,8 @@
+# Local environment files containing secrets or API keys
+.env
+.env.local
+.env.*
+
+# Anthropic API key storage (local-only)
+anthropic_api_key
+ANTHROPIC_API_KEY
